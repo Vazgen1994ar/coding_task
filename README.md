@@ -1,14 +1,14 @@
-#Precondition
+# Precondition
 
 - Installed `node.js`
 
-#Instruction on how to run the unit tests 
+# Instruction on how to run the unit tests 
 
 - Install all dependencies `npm i`
 
 - Run unit tests `npm test`
 
-#App structure
+# App structure
 
 - `unit_test.js` - Unit tests are written in Mocha to make them more structured
 
@@ -18,7 +18,7 @@
 
 - `TestData.js` - File which stores all necessary data for test writing, is located in `TestData` folder.
 
-#Used packages
+# Used packages
 
 - [mochajs](https://mochajs.org/) - Test framework running on Node.js and in the browser
 
